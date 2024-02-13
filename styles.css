@@ -1,0 +1,28 @@
+body{
+    background:#000;color: #fff;
+}
+.wrapper{
+    max-width:90%; margin: 0 auto;
+}
+h1{
+    text-align: center;margin: 20px;
+}
+table{
+    margin-top:30px;
+}
+.display-none{
+    display: none;
+}
+tbody td{
+    text-transform: uppercase;
+}
+.btn-warning:hover{
+    color:#fff ;
+    transition: 0.2s ease-in-out;
+}
+.content-img{
+    display: flex !important;
+    padding-top: 25px;
+    -ms-flex-item-align: center !important;
+    margin: auto;
+}
