@@ -10,7 +10,7 @@
  * Copyright 2024 The Application Author
  * Licensed under MIT (https://github.com/princexz/  CGP_Calculator/blob/master/LICENSE)
  
- # Chatbot Deployment with Flask and JavaScript
+ # CGPA APPLICATION SOFTWARE.
 
 In this tutorial we deploy the chatbot I created in [this](https://github.com/python-engineer/pytorch-chatbot) tutorial with Flask and JavaScript.
 
