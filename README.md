@@ -1,13 +1,11 @@
-<!-- /*!
+
 * Application: CGPA Calculator
 * Author: Prince Solomon
 * Year: 2024.
 
 
-* This Application help student to calculate their Result Grade
-
-
-<!-- /*!
+* This Application help student to calculate their Result
+  
  * Application Version v5.0.0 (https://github.com/princexz)
  * Copyright 2024 The Application Author
  * Licensed under MIT (https://github.com/princexz/  CGP_Calculator/blob/master/LICENSE)
