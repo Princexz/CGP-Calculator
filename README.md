@@ -9,6 +9,12 @@
  * Application Version v5.0.0 (https://github.com/princexz)
  * Copyright 2024 The Application Author
  * Licensed under MIT (https://github.com/princexz/  CGP_Calculator/blob/master/LICENSE)
+
+
+<div align="center">
+<img src="./CGPA.png" alt="CGPA-Application Interface.">
+</div>
+
  
  # CGPA APPLICATION SOFTWARE.
 
@@ -47,5 +53,24 @@ This will dump data.pth file. And then run
 the following command to test it in the console.
 ```
 ```
+
+# 📝 Features 
+✅ This is a CGPA-CALCULATOR application website. <br>
+✅ It help Student in Calculate their  CGPA . 
+
+# 💻 Technologies used
+<img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-0066FF?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-FFF600?style=for-the-badge&logo=javascript&logoColor=white">
+
+# 👩‍💻 IDE used
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+# 🌐 Visit the website here
+https://princexz.github.io/CGP-Calculator/
+
+# 📕 License
+This project is under <a href="https://github.com/princexz/Quiz-Application/blob/main/LICENSE">MIT</a> license.
+
 ## Credits:
 https://github.com/princexz/CGP-Calculator
