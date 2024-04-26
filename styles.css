@@ -21,8 +21,10 @@ tbody td{
     transition: 0.2s ease-in-out;
 }
 .content-img{
-    display: flex !important;
+   display: flex !important;
     padding-top: 25px;
     -ms-flex-item-align: center !important;
     margin: auto;
+    margin-bottom: 5%;
+    max-width: 35%;
 }
