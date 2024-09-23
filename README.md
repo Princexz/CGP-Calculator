@@ -16,7 +16,7 @@
 </div>
 
  
- # CGPA APPLICATION SOFTWARE.
+ # CGPA APPLICATION.
 
 In this tutorial we deploy the chatbot I created in [this](https://github.com/python-engineer/pytorch-chatbot) tutorial with Flask and JavaScript.
 
@@ -31,7 +31,7 @@ Clone repo and create a virtual environment
 ```
 $ git clone https://github.com/princexz/CGP-Calculator.git
 $ cd CGP-Calculator-deployment
-$ python3 -m venv venv
+$ -m venv venv
 $ . venv/bin/activate
 ```
 Install dependencies
@@ -40,7 +40,7 @@ $ (venv) pip install Flask torch torchvision nltk
 ```
 Install nltk package
 ```
-$ (venv) python
+$ (venv) IDE VS Code
 >>> import nltk
 >>> nltk.download('punkt')
 ```
